@@ -1,0 +1,16 @@
+.container { 
+    background-color: lightgoldenrodyellow;
+    border: 3px dashed gray;
+    width: 70%;
+    margin: 0px auto;
+    text-align: center;
+    padding: 10px;
+}
+
+body {
+    background-image: url(calcmath.jpg);
+      background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center; 
+   min-height: 100vh;
+}
